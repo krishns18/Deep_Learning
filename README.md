@@ -1,3 +1,4 @@
 # Deep Learning Projects & Algorithm Implementations
 
-A repository containing Deep Learning related work
+A repository containing Deep Learning projects and algorithm implementations.
+ 
