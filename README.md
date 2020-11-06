@@ -26,7 +26,15 @@
 
 </center>
 
-#### 3.
+#### 3. Predict Bike Sharing Pattern
+- Built a neural network from scratch using PyTorch to predict bike sharing patterns.
+- The chart below outlines the model prediction.
+
+<center>
+
+  ![Results](./images/bike_sharing_pattern_result.png)
+
+</center>
 
 
  
